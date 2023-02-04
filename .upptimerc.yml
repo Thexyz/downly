@@ -24,7 +24,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Downly
-  introTitle: "**Downly** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Downly** is a bot that checks the status of websites with a regular ping and makes the data publicly available."
   introMessage: This status page checks **real-time** data to determine current server status.
   navbar:
     - title: Status
