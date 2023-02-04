@@ -58,4 +58,13 @@ i18n:
   NOTIFICATION_EMAIL_FROM: "bot@downly.net"
   NOTIFICATION_EMAIL_TO: "alert_new@downly.net"
   
+  i18n:
+  up: "✅ Up"
+  degraded: "⚠️ Degraded"
+  down: "🚨 Down"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "✅ All systems operational"
+  degradedPerformance: "⚠️ Degraded performance"
+  completeOutage: "🚨 Complete outage"
+  
 
