@@ -12,30 +12,6 @@ sites:
   - name: Down eupx.com
     url: https://eupx.com
     method: POST
-- name: YouTube
-url: https://www.youtube.com
-- name: Facebook
-url: https://www.facebook.com
-- name: Amazon
-url: https://www.amazon.com
-- name: Wikipedia
-url: https://www.wikipedia.org
-- name: Twitter
-url: https://twitter.com
-- name: Instagram
-url: https://www.instagram.com
-- name: LinkedIn
-url: https://www.linkedin.com
-- name: Reddit
-url: https://www.reddit.com
-- name: TikTok
-url: https://www.tiktok.com
-- name: Netflix
-url: https://www.netflix.com
-- name: Microsoft
-url: https://www.microsoft.com
-- name: Apple
-url: https://www.apple.com
   - name: Thexyz
     url: https://www.thexyz.com
     icon: https://www.thexyz.com/favicon.ico
