@@ -12,8 +12,6 @@ sites:
   - name: Down eupx.com
     url: https://eupx.com
     method: POST
-  - name: YouTube
-    url: https://www.youtube.com
   - name: Thexyz
     url: https://www.thexyz.com
     icon: https://www.thexyz.com/favicon.ico
@@ -40,5 +38,8 @@ status-website:
 user-agent: thexyz
 i18n:
   footer: This project is [open source]($REPO), powered by [Thexyz](https://www.thexyz.com)
+  
+  status-website:
+  customHeadHtml: "01795509e97764dd6cf81cf164bacb68ad31f491"
   
 
