@@ -15,6 +15,10 @@ sites:
     url: https://www.microsoft.com
   - name: Amazon
     url: https://amazon.com 
+  - name: Reddit
+    url: https://www.reddit.com
+  - name: Apple
+    url: https://www.apple.com   
   - name: EUPX
     url: https://eupx.com
     method: POST
