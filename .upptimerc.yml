@@ -53,6 +53,8 @@ i18n:
   
   status-website:
   customHeadHtml: "01795509e97764dd6cf81cf164bacb68ad31f491"
+  favicon: https://github.com/Thexyz/downly/blob/master/assets/downly-favicon.png
+  faviconSvg: https://raw.githubusercontent.com/Thexyz/downly/4171886168d7a52f776a983c2a540d327100a586/assets/downly.svg
 
   
   NOTIFICATION_EMAIL:	"true"
