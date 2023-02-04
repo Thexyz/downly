@@ -11,7 +11,11 @@ sites:
     url: https://news.ycombinator.com  
   - name: Twitter
     url: https://twitter.com  
-  - name: Down eupx.com
+  - name: Microsoft
+    url: https://www.microsoft.com
+  - name: Amazon
+    url: https://amazon.com 
+  - name: EUPX
     url: https://eupx.com
     method: POST
   - name: Thexyz
