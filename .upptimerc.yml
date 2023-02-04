@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com  
+  - name: Twitter
+    url: https://twitter.com  
   - name: Down eupx.com
     url: https://eupx.com
     method: POST
