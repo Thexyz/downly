@@ -52,9 +52,7 @@ i18n:
   footer: This project is [open source]($REPO), powered by [Thexyz](https://www.thexyz.com)
   
   status-website:
-  customHeadHtml: "01795509e97764dd6cf81cf164bacb68ad31f491
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5600424225032954"
-     crossorigin="anonymous"></script>"
+  customHeadHtml: "01795509e97764dd6cf81cf164bacb68ad31f491"
 
   
   NOTIFICATION_EMAIL:	"true"
