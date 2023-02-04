@@ -37,7 +37,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Thexyz/downly/fe24ef565ab79cf43ea185a70b8c91ec175f41d6/assets/downly.svg
   name: Downly
   introTitle: "**Downly** is a bot that checks the status of websites with a regular ping and makes the data publicly available."
-  introMessage: This status page checks **real-time** data to determine current server status.
+  introMessage: This status page checks **real-time** services to determine current server status.
   navbar:
     - title: Status
       href: /
