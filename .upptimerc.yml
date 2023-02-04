@@ -10,7 +10,9 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com  
   - name: Twitter
-    url: https://twitter.com  
+    url: https://twitter.com 
+  - name: Facebook
+    url: https://facebook.com   
   - name: Microsoft
     url: https://www.microsoft.com
   - name: Amazon
