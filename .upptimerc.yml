@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com  
+  - name: Down eupx.com
+    url: https://eupx.com
   - name: Thexyz
     url: https://www.thexyz.com
     icon: https://www.thexyz.com/favicon.ico
