@@ -14,6 +14,7 @@ sites:
     name: Thexyz
     url: https://www.thexyz.com
     icon: https://www.thexyz.com/favicon.ico
+    status-website: https://www.thexyz.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
