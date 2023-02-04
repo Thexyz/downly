@@ -39,9 +39,4 @@ user-agent: thexyz
 i18n:
   footer: This project is [open source]($REPO), powered by [Thexyz](https://www.thexyz.com)
   
-status-website:
-  customHeadHtml: "01795509e97764dd6cf81cf164bacb68ad31f491"
-  
-commitMessages:
-  commitAuthorName: "Downly Bot"
-  commitAuthorEmail: "bot@downly.net"
+
