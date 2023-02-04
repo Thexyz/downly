@@ -11,6 +11,7 @@ sites:
     url: https://news.ycombinator.com  
   - name: Down eupx.com
     url: https://eupx.com
+    method: POST
 - name: YouTube
 url: https://www.youtube.com
 - name: Facebook
