@@ -34,7 +34,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: downly.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Thexyz/downly/fe24ef565ab79cf43ea185a70b8c91ec175f41d6/assets/downly.svg
   name: Downly
   introTitle: "**Downly** is a bot that checks the status of websites with a regular ping and makes the data publicly available."
   introMessage: This status page checks **real-time** data to determine current server status.
