@@ -53,6 +53,8 @@ i18n:
   
   status-website:
   customHeadHtml: "01795509e97764dd6cf81cf164bacb68ad31f491"
+  customHeadHtml: "<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5600424225032954"
+     crossorigin="anonymous"></script>"
   
   NOTIFICATION_EMAIL:	"true"
   NOTIFICATION_EMAIL_FROM: "bot@downly.net"
