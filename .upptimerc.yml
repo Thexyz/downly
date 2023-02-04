@@ -63,7 +63,7 @@ i18n:
   degraded: "⚠️ Degraded"
   down: "🚨 Down"
   liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "✅ All systems operational"
+  allSystemsOperational: "All monitered services are currenly operational"
   degradedPerformance: "⚠️ Degraded performance"
   completeOutage: "🚨 Complete outage"
   
