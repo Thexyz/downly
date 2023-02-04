@@ -48,4 +48,6 @@ i18n:
   status-website:
   customHeadHtml: "01795509e97764dd6cf81cf164bacb68ad31f491"
   
+  NOTIFICATION_EMAIL:	"true"
+  
 
