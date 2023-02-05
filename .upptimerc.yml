@@ -21,9 +21,8 @@ sites:
     url: https://www.reddit.com
   - name: Apple
     url: https://www.apple.com   
-  - name: EUPX
-    url: https://eupx.com
-    method: POST
+  - name: eBay
+    url: https://www.ebay.com
   - name: Thexyz
     url: https://www.thexyz.com
     icon: https://www.thexyz.com/favicon.ico
@@ -40,9 +39,8 @@ status-website:
   introMessage: This status page checks **real-time** services to determine current server status.
   navbar:
     - title: Status
-      href: /
-    - title: DNS
-      href: https://downly.net/dns
+    - title: Manage DNS
+      href: https://dns.downly.net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
