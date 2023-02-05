@@ -42,7 +42,7 @@ status-website:
     - title: Status
       href: /
     - title: DNS
-      href: https://downly.net/start.html
+      href: https://downly.net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
