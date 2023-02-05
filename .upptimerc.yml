@@ -42,14 +42,14 @@ status-website:
     - title: Status
       href: /
     - title: DNS
-      href: https://dns.downly.net
+      href: https://downly.net/dns
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
 user-agent: thexyz
 i18n:
-  footer: This project is [open source]($REPO), powered by [Thexyz](https://www.thexyz.com)
+  footer: This project is [open source]($REPO), if you need help, check the [Wiki](https://wiki.downly.net)
   
   status-website:
   customHeadHtml: "01795509e97764dd6cf81cf164bacb68ad31f491"
