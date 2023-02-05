@@ -35,8 +35,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Thexyz/downly/fe24ef565ab79cf43ea185a70b8c91ec175f41d6/assets/downly.svg
   name: Downly
-  introTitle: "**Downly** is a bot that checks the status of websites with a regular ping and makes the data publicly available."
-  introMessage: This status page checks **real-time** services to determine current server status.
+  introTitle: "**Downly** is a bot that checks the status of websites and offer Anycast DNS with failover to ensure your websites remains online."
+  introMessage: Get a network status page, DNS hosting for up to 100 domains, DNS failover and monitoring for $10 USD per month. 
   navbar:
     - title: Status
     - title: Manage DNS
