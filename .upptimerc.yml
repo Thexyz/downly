@@ -13,6 +13,8 @@ sites:
     url: https://twitter.com 
   - name: Facebook
     url: https://facebook.com   
+  - name: IMDB
+    url: https://www.imdb.com
   - name: Microsoft
     url: https://www.microsoft.com
   - name: Amazon
@@ -23,6 +25,8 @@ sites:
     url: https://www.apple.com   
   - name: eBay
     url: https://www.ebay.com
+  - name: Linkedin
+    url: https://www.linkedin.com  
   - name: Thexyz
     url: https://www.thexyz.com
     icon: https://www.thexyz.com/favicon.ico
@@ -45,7 +49,6 @@ status-website:
 # See https://upptime.js.org/docs/configuration
   
   status-website:
-  customHeadHtml: "01795509e97764dd6cf81cf164bacb68ad31f491"
   favicon: https://github.com/Thexyz/downly/blob/master/assets/downly-favicon.png
   faviconSvg: https://raw.githubusercontent.com/Thexyz/downly/4171886168d7a52f776a983c2a540d327100a586/assets/downly.svg
   
@@ -59,5 +62,11 @@ i18n:
   allSystemsOperational: "All monitered services are currenly operational"
   degradedPerformance: "⚠️ Degraded performance"
   completeOutage: "🚨 Complete outage"
+  
+  scripts:
+    - src: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5600424225032954
+      async: true
+      
+
   
 
