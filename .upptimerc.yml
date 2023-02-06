@@ -38,7 +38,6 @@ status-website:
   introTitle: "**Downly** is a bot that checks the status of websites and offer Anycast DNS with failover to ensure your websites remains online."
   introMessage: Get a network status page, DNS hosting for up to 100 domains, DNS failover and monitoring for $10 USD per month. 
   navbar:
-    - title: Status
     - title: Manage DNS
       href: https://dns.downly.net
 
