@@ -150,18 +150,20 @@
     "url": "https://www.reddit.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 886,
-    "timeWeek": 767,
-    "timeMonth": 734,
-    "timeYear": 734,
-    "dailyMinutesDown": {}
+    "time": 950,
+    "timeDay": 4585,
+    "timeWeek": 1707,
+    "timeMonth": 950,
+    "timeYear": 950,
+    "dailyMinutesDown": {
+      "2023-02-21": 0
+    }
   },
   {
     "name": "Apple",
