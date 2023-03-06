@@ -60,18 +60,20 @@
     "url": "https://twitter.com",
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 942,
-    "timeDay": 827,
-    "timeWeek": 753,
-    "timeMonth": 1067,
-    "timeYear": 942,
-    "dailyMinutesDown": {}
+    "time": 926,
+    "timeDay": 450,
+    "timeWeek": 668,
+    "timeMonth": 1035,
+    "timeYear": 926,
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "Facebook",
