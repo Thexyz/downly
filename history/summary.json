@@ -215,18 +215,20 @@
     "url": "https://www.linkedin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linkedin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 119,
-    "timeWeek": 237,
-    "timeMonth": 302,
-    "timeYear": 295,
-    "dailyMinutesDown": {}
+    "time": 292,
+    "timeDay": 122,
+    "timeWeek": 223,
+    "timeMonth": 296,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   },
   {
     "name": "Thexyz",
