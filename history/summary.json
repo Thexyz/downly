@@ -82,9 +82,9 @@
     "url": "https://facebook.com",
     "icon": "https://icons.duckduckgo.com/ip3/facebook.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +93,9 @@
     "timeWeek": 509,
     "timeMonth": 378,
     "timeYear": 380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-18": 0
+    }
   },
   {
     "name": "IMDB",
