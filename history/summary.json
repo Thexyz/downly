@@ -168,7 +168,7 @@
     "uptimeYear": "99.66%",
     "time": 829,
     "timeDay": 447,
-    "timeWeek": 634,
+    "timeWeek": 680,
     "timeMonth": 708,
     "timeYear": 829,
     "dailyMinutesDown": {
@@ -220,19 +220,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linkedin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 305,
     "timeDay": 137,
     "timeWeek": 306,
     "timeMonth": 311,
     "timeYear": 305,
-    "dailyMinutesDown": {
-      "2023-05-01": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Thexyz",
