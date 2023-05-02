@@ -239,19 +239,19 @@
     "url": "https://www.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "thexyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 391,
-    "timeDay": 253,
-    "timeWeek": 310,
-    "timeMonth": 357,
+    "timeDay": 288,
+    "timeWeek": 312,
+    "timeMonth": 356,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2023-05-02": 0
+      "2023-05-02": 21
     }
   }
 ]
