@@ -219,19 +219,19 @@
     "url": "https://www.linkedin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linkedin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 131,
-    "timeWeek": 289,
-    "timeMonth": 306,
-    "timeYear": 303,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 304,
+    "timeDay": 199,
+    "timeWeek": 299,
+    "timeMonth": 308,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-05-02": 0
+      "2023-05-02": 13
     }
   },
   {
