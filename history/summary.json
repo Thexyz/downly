@@ -221,18 +221,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linkedin",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 303,
     "timeDay": 336,
     "timeWeek": 265,
     "timeMonth": 309,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-05-05": 13,
       "2023-05-02": 28
     }
   },
