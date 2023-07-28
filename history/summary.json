@@ -145,7 +145,7 @@
     "timeMonth": 7311,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2023-07-28": 437,
+      "2023-07-28": 451,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -282,15 +282,15 @@
     "url": "https://www.linkedin.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.linkedin.com.ico",
     "slug": "linkedin",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "92.83%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "98.77%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "92.82%",
+    "uptimeMonth": "93.10%",
+    "uptimeYear": "98.78%",
     "time": 254,
     "timeDay": 246,
-    "timeWeek": 244,
+    "timeWeek": 240,
     "timeMonth": 244,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -321,8 +321,7 @@
       "2023-07-04": 104,
       "2023-07-03": 25,
       "2023-07-02": 19,
-      "2023-07-01": 44,
-      "2023-06-30": 19
+      "2023-07-01": 44
     }
   },
   {
