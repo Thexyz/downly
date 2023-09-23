@@ -1,7 +1,7 @@
 url: https://www.linkedin.com
-status: up
-code: 200
-responseTime: 202
-lastUpdated: 2023-09-22T23:09:21.152Z
+status: down
+code: 429
+responseTime: 153
+lastUpdated: 2023-09-23T15:43:42.558Z
 startTime: 2023-02-06T00:17:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
