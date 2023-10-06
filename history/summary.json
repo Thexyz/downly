@@ -6,8 +6,8 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
@@ -15,7 +15,9 @@
     "timeWeek": 98,
     "timeMonth": 102,
     "timeYear": 102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 1
+    }
   },
   {
     "name": "Wikipedia",
@@ -134,18 +136,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "50.17%",
+    "uptime": "50.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.17%",
+    "uptimeYear": "50.03%",
     "time": 1855,
     "timeDay": 0,
     "timeWeek": 10104,
     "timeMonth": 4212,
     "timeYear": 1855,
     "dailyMinutesDown": {
-      "2023-10-06": 53,
+      "2023-10-06": 1099,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -368,7 +370,7 @@
     "time": 256,
     "timeDay": 463,
     "timeWeek": 320,
-    "timeMonth": 293,
+    "timeMonth": 294,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2023-10-03": 17,
