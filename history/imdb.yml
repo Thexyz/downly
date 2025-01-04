@@ -1,7 +1,7 @@
 url: https://www.imdb.com
-status: down
-code: 503
-responseTime: 167
-lastUpdated: 2025-01-03T23:48:36.477Z
+status: up
+code: 200
+responseTime: 1025
+lastUpdated: 2025-01-04T00:43:03.462Z
 startTime: 2023-02-06T00:17:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
