@@ -67,7 +67,7 @@
     "uptime": "77.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.75%",
+    "uptimeMonth": "34.71%",
     "uptimeYear": "77.64%",
     "time": 323,
     "timeDay": 259,
@@ -75,7 +75,7 @@
     "timeMonth": 253,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-03-16": 591,
+      "2025-03-16": 612,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -216,7 +216,7 @@
     "timeMonth": 2064,
     "timeYear": 5108,
     "dailyMinutesDown": {
-      "2025-03-16": 591,
+      "2025-03-16": 612,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -621,7 +621,7 @@
     "timeMonth": 170,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-03-16": 591,
+      "2025-03-16": 612,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -1013,19 +1013,19 @@
     "url": "https://www.ebay.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebay.com.ico",
     "slug": "e-bay",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 708,
-    "timeDay": 489,
-    "timeWeek": 591,
-    "timeMonth": 723,
-    "timeYear": 701,
+    "timeDay": 724,
+    "timeWeek": 637,
+    "timeMonth": 731,
+    "timeYear": 702,
     "dailyMinutesDown": {
-      "2025-03-16": 0
+      "2025-03-16": 21
     }
   },
   {
