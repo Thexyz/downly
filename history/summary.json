@@ -64,10 +64,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "down",
-    "uptime": "77.52%",
+    "uptime": "77.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.92%",
+    "uptimeMonth": "34.75%",
     "uptimeYear": "77.64%",
     "time": 323,
     "timeDay": 259,
@@ -75,7 +75,7 @@
     "timeMonth": 253,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-03-16": 79,
+      "2025-03-16": 591,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -216,7 +216,7 @@
     "timeMonth": 2064,
     "timeYear": 5108,
     "dailyMinutesDown": {
-      "2025-03-16": 80,
+      "2025-03-16": 591,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -610,7 +610,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
     "status": "down",
-    "uptime": "40.29%",
+    "uptime": "40.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -621,7 +621,7 @@
     "timeMonth": 170,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-03-16": 80,
+      "2025-03-16": 591,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -1013,18 +1013,20 @@
     "url": "https://www.ebay.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebay.com.ico",
     "slug": "e-bay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
+    "time": 708,
     "timeDay": 489,
     "timeWeek": 591,
     "timeMonth": 723,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-16": 0
+    }
   },
   {
     "name": "Linkedin",
