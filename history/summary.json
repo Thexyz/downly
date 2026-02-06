@@ -64,9 +64,9 @@
     "url": "https://twitter.com",
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
-    "status": "up",
+    "status": "down",
     "uptime": "70.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "53.48%",
@@ -76,6 +76,7 @@
     "timeMonth": 958,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2026-02-06": 0,
       "2026-01-16": 37,
       "2026-01-01": 154,
       "2025-12-31": 2,
@@ -323,7 +324,7 @@
     "timeMonth": 121,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2026-02-06": 115,
+      "2026-02-06": 171,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -725,7 +726,7 @@
     "timeMonth": 96,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2026-02-06": 115,
+      "2026-02-06": 171,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
