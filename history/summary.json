@@ -46,10 +46,10 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
@@ -57,7 +57,9 @@
     "timeWeek": 200,
     "timeMonth": 246,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-17": 1
+    }
   },
   {
     "name": "Twitter",
@@ -65,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "70.81%",
+    "uptime": "70.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
@@ -324,7 +326,7 @@
     "timeMonth": 116,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2026-02-17": 304,
+      "2026-02-17": 850,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -715,7 +717,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
     "status": "down",
-    "uptime": "28.00%",
+    "uptime": "27.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -726,7 +728,7 @@
     "timeMonth": 97,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2026-02-17": 304,
+      "2026-02-17": 850,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -1166,7 +1168,7 @@
     "time": 628,
     "timeDay": 706,
     "timeWeek": 617,
-    "timeMonth": 605,
+    "timeMonth": 613,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2026-02-17": 112,
