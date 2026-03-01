@@ -37,7 +37,7 @@
     "time": 196,
     "timeDay": 209,
     "timeWeek": 125,
-    "timeMonth": 164,
+    "timeMonth": 162,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -55,7 +55,7 @@
     "time": 308,
     "timeDay": 472,
     "timeWeek": 320,
-    "timeMonth": 272,
+    "timeMonth": 277,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2026-02-17": 57
@@ -71,7 +71,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "54.67%",
+    "uptimeYear": "54.69%",
     "time": 325,
     "timeDay": 236,
     "timeWeek": 248,
@@ -250,8 +250,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -268,7 +267,7 @@
     "time": 652,
     "timeDay": 647,
     "timeWeek": 614,
-    "timeMonth": 602,
+    "timeMonth": 615,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2025-09-18": 30,
@@ -290,7 +289,7 @@
     "time": 895,
     "timeDay": 332,
     "timeWeek": 181,
-    "timeMonth": 153,
+    "timeMonth": 160,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2026-01-02": 49,
@@ -313,15 +312,16 @@
     "uptime": "10.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 1624,
     "timeDay": 147,
     "timeWeek": 108,
-    "timeMonth": 116,
+    "timeMonth": 122,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2026-02-28": 1431,
+      "2026-03-01": 114,
+      "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -684,8 +684,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -702,7 +701,7 @@
     "time": 274,
     "timeDay": 139,
     "timeWeek": 219,
-    "timeMonth": 283,
+    "timeMonth": 288,
     "timeYear": 282,
     "dailyMinutesDown": {}
   },
@@ -715,15 +714,16 @@
     "uptime": "27.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 113,
     "timeDay": 77,
     "timeWeek": 79,
-    "timeMonth": 95,
+    "timeMonth": 99,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2026-02-28": 1431,
+      "2026-03-01": 114,
+      "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -1086,8 +1086,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -1104,7 +1103,7 @@
     "time": 150,
     "timeDay": 153,
     "timeWeek": 114,
-    "timeMonth": 178,
+    "timeMonth": 175,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -1122,7 +1121,7 @@
     "time": 761,
     "timeDay": 942,
     "timeWeek": 795,
-    "timeMonth": 834,
+    "timeMonth": 832,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2025-03-16": 21
@@ -1142,7 +1141,7 @@
     "time": 266,
     "timeDay": 304,
     "timeWeek": 250,
-    "timeMonth": 260,
+    "timeMonth": 263,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2025-05-19": 15,
@@ -1154,19 +1153,20 @@
     "url": "https://www.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "thexyz",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.66%",
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "88.93%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.64%",
     "time": 637,
-    "timeDay": 599,
-    "timeWeek": 567,
-    "timeMonth": 802,
+    "timeDay": 552,
+    "timeWeek": 559,
+    "timeMonth": 822,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2026-02-28": 37,
+      "2026-03-01": 114,
+      "2026-02-28": 46,
       "2026-02-27": 77,
       "2026-02-25": 61,
       "2026-02-22": 20,
