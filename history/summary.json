@@ -28,9 +28,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,7 +39,9 @@
     "timeWeek": 125,
     "timeMonth": 162,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-01": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -67,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "71.12%",
+    "uptime": "71.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "54.70%",
+    "uptimeYear": "54.83%",
     "time": 325,
     "timeDay": 236,
     "timeWeek": 248,
@@ -320,7 +322,7 @@
     "timeMonth": 122,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2026-03-01": 127,
+      "2026-03-01": 837,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -711,7 +713,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
     "status": "down",
-    "uptime": "27.70%",
+    "uptime": "27.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -722,7 +724,7 @@
     "timeMonth": 99,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2026-03-01": 127,
+      "2026-03-01": 837,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
