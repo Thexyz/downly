@@ -71,11 +71,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "73.27%",
+    "uptime": "73.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.36%",
+    "uptimeYear": "79.54%",
     "time": 398,
     "timeDay": 848,
     "timeWeek": 1293,
@@ -232,7 +232,7 @@
     "timeMonth": 195,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-05-30": 172,
+      "2026-05-30": 1138,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -623,7 +623,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
     "status": "down",
-    "uptime": "25.64%",
+    "uptime": "25.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -634,7 +634,7 @@
     "timeMonth": 58,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2026-05-30": 172,
+      "2026-05-30": 1138,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -1064,10 +1064,10 @@
     "url": "https://www.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "thexyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.36%",
     "time": 644,
@@ -1125,7 +1125,8 @@
       "2026-04-15": 91,
       "2026-04-29": 152,
       "2026-05-09": 27,
-      "2026-05-18": 319
+      "2026-05-18": 319,
+      "2026-05-30": 1
     }
   }
 ]
