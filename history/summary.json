@@ -75,7 +75,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.82%",
+    "uptimeYear": "80.86%",
     "time": 399,
     "timeDay": 219,
     "timeWeek": 403,
@@ -230,7 +230,7 @@
     "timeMonth": 191,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-06-04": 647,
+      "2026-06-04": 830,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -632,7 +632,7 @@
     "timeMonth": 55,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2026-06-04": 647,
+      "2026-06-04": 830,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -1062,16 +1062,16 @@
     "url": "https://www.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "thexyz",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.35%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "87.31%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "99.32%",
     "time": 644,
-    "timeDay": 1025,
-    "timeWeek": 480,
-    "timeMonth": 463,
+    "timeDay": 792,
+    "timeWeek": 488,
+    "timeMonth": 466,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2025-06-07": 88,
@@ -1124,7 +1124,7 @@
       "2026-05-09": 27,
       "2026-05-18": 319,
       "2026-05-30": 71,
-      "2026-06-04": 1
+      "2026-06-04": 183
     }
   }
 ]
