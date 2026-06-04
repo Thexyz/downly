@@ -1,7 +1,7 @@
 url: https://www.imdb.com
-status: down
-code: 403
-responseTime: 23
-lastUpdated: 2026-06-04T00:25:29.808Z
+status: up
+code: 202
+responseTime: 452
+lastUpdated: 2026-06-04T02:10:24.309Z
 startTime: 2023-02-06T00:17:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
