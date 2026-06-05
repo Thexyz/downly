@@ -13,7 +13,7 @@
     "time": 113,
     "timeDay": 68,
     "timeWeek": 86,
-    "timeMonth": 86,
+    "timeMonth": 85,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2025-06-18": 30,
@@ -37,7 +37,7 @@
     "time": 192,
     "timeDay": 62,
     "timeWeek": 161,
-    "timeMonth": 169,
+    "timeMonth": 172,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2026-03-01": 36,
@@ -58,7 +58,7 @@
     "time": 297,
     "timeDay": 378,
     "timeWeek": 376,
-    "timeMonth": 279,
+    "timeMonth": 275,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2026-02-17": 57,
@@ -71,15 +71,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/twitter.com.ico",
     "slug": "twitter",
     "status": "up",
-    "uptime": "73.39%",
+    "uptime": "73.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.86%",
+    "uptimeYear": "80.97%",
     "time": 399,
     "timeDay": 219,
     "timeWeek": 403,
-    "timeMonth": 866,
+    "timeMonth": 882,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2025-08-13": 138,
@@ -151,7 +151,6 @@
       "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
-      "2025-06-05": 1440,
       "2025-09-03": 38,
       "2025-10-11": 23,
       "2025-11-18": 127,
@@ -176,8 +175,8 @@
     "time": 661,
     "timeDay": 641,
     "timeWeek": 750,
-    "timeMonth": 706,
-    "timeYear": 643,
+    "timeMonth": 713,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-09-18": 30
     }
@@ -187,17 +186,17 @@
     "url": "https://www.imdb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.imdb.com.ico",
     "slug": "imdb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "92.71%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "92.33%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.90%",
-    "time": 780,
-    "timeDay": 238,
-    "timeWeek": 186,
-    "timeMonth": 178,
-    "timeYear": 685,
+    "time": 779,
+    "timeDay": 196,
+    "timeWeek": 179,
+    "timeMonth": 174,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-08-25": 27,
       "2025-08-30": 48,
@@ -210,7 +209,8 @@
       "2026-01-02": 49,
       "2026-06-03": 23,
       "2026-06-02": 1,
-      "2026-06-04": 105
+      "2026-06-04": 110,
+      "2026-06-05": 0
     }
   },
   {
@@ -219,7 +219,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.microsoft.com.ico",
     "slug": "microsoft",
     "status": "down",
-    "uptime": "10.04%",
+    "uptime": "10.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -228,9 +228,10 @@
     "timeDay": 54,
     "timeWeek": 569,
     "timeMonth": 191,
-    "timeYear": 199,
+    "timeYear": 200,
     "dailyMinutesDown": {
-      "2026-06-04": 830,
+      "2026-06-05": 0,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -593,8 +594,7 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440
+      "2025-06-06": 1440
     }
   },
   {
@@ -611,7 +611,7 @@
     "time": 288,
     "timeDay": 121,
     "timeWeek": 311,
-    "timeMonth": 421,
+    "timeMonth": 430,
     "timeYear": 298,
     "dailyMinutesDown": {}
   },
@@ -621,7 +621,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reddit.com.ico",
     "slug": "reddit",
     "status": "down",
-    "uptime": "25.53%",
+    "uptime": "25.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -629,10 +629,11 @@
     "time": 98,
     "timeDay": 45,
     "timeWeek": 49,
-    "timeMonth": 55,
+    "timeMonth": 53,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2026-06-04": 830,
+      "2026-06-05": 0,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -995,8 +996,7 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440
+      "2025-06-06": 1440
     }
   },
   {
@@ -1013,8 +1013,8 @@
     "time": 156,
     "timeDay": 69,
     "timeWeek": 121,
-    "timeMonth": 132,
-    "timeYear": 165,
+    "timeMonth": 133,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -1031,7 +1031,7 @@
     "time": 790,
     "timeDay": 925,
     "timeWeek": 1119,
-    "timeMonth": 928,
+    "timeMonth": 933,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2026-04-28": 1137,
@@ -1053,7 +1053,7 @@
     "time": 251,
     "timeDay": 132,
     "timeWeek": 165,
-    "timeMonth": 215,
+    "timeMonth": 213,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -1062,16 +1062,16 @@
     "url": "https://www.thexyz.com",
     "icon": "https://www.thexyz.com/favicon.ico",
     "slug": "thexyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "87.31%",
+    "uptimeDay": "87.27%",
     "uptimeWeek": "97.48%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.32%",
     "time": 644,
     "timeDay": 792,
     "timeWeek": 488,
-    "timeMonth": 466,
+    "timeMonth": 467,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2025-06-07": 88,
@@ -1124,7 +1124,8 @@
       "2026-05-09": 27,
       "2026-05-18": 319,
       "2026-05-30": 71,
-      "2026-06-04": 183
+      "2026-06-04": 183,
+      "2026-06-05": 1
     }
   }
 ]
