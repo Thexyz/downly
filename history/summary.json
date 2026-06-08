@@ -75,7 +75,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.81%",
+    "uptimeYear": "81.84%",
     "time": 399,
     "timeDay": 391,
     "timeWeek": 349,
@@ -227,7 +227,7 @@
     "timeMonth": 186,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-06-08": 101,
+      "2026-06-08": 229,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -600,18 +600,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/amazon.com.ico",
     "slug": "amazon",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "91.08%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
     "time": 290,
     "timeDay": 852,
     "timeWeek": 409,
     "timeMonth": 442,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2026-06-08": 1
+      "2026-06-08": 128
     }
   },
   {
@@ -631,7 +631,7 @@
     "timeMonth": 56,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2026-06-08": 101,
+      "2026-06-08": 229,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
