@@ -73,7 +73,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.92%",
+    "uptimeYear": "85.94%",
     "time": 450,
     "timeDay": 415,
     "timeWeek": 3118,
@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.imdb.com.ico",
     "slug": "imdb",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.94%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.85%",
     "time": 755,
     "timeDay": 86,
     "timeWeek": 127,
@@ -191,7 +191,7 @@
       "2026-06-02": 1,
       "2026-06-04": 105,
       "2026-06-06": 183,
-      "2026-06-23": 1
+      "2026-06-23": 93
     }
   },
   {
@@ -211,7 +211,7 @@
     "timeMonth": 190,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2026-06-23": 86,
+      "2026-06-23": 178,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -615,7 +615,7 @@
     "timeMonth": 56,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2026-06-23": 86,
+      "2026-06-23": 178,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
