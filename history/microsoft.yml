@@ -1,7 +1,7 @@
 url: https://www.microsoft.com
-status: down
-code: 403
-responseTime: 17117
-lastUpdated: 2026-11-26T04:40:12.314Z
+status: up
+code: 200
+responseTime: 54
+lastUpdated: 2026-11-27T03:11:01.692Z
 startTime: 2023-02-04T19:12:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
